@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Description>基于Dapper，操作各种数据库增加，修改，删除。(目前只支持postgres)</Description>
+    <Authors>zwc</Authors>
+    <Product>zwc</Product>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.5" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="2.2.0-preview2-35157" />
+    <PackageReference Include="Npgsql" Version="4.0.3" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\tracy\source\repos\DbOperationByDapper\DbOperationByDapper\bin\Release\netcoreapp2.1\DbOperationByDapper.deps.json
+C:\Users\tracy\source\repos\DbOperationByDapper\DbOperationByDapper\bin\Release\netcoreapp2.1\DbOperationByDapper.dll
+C:\Users\tracy\source\repos\DbOperationByDapper\DbOperationByDapper\bin\Release\netcoreapp2.1\DbOperationByDapper.pdb
+C:\Users\tracy\source\repos\DbOperationByDapper\DbOperationByDapper\obj\Release\netcoreapp2.1\DbOperationByDapper.csprojAssemblyReference.cache
+C:\Users\tracy\source\repos\DbOperationByDapper\DbOperationByDapper\obj\Release\netcoreapp2.1\DbOperationByDapper.csproj.CoreCompileInputs.cache
+C:\Users\tracy\source\repos\DbOperationByDapper\DbOperationByDapper\obj\Release\netcoreapp2.1\DbOperationByDapper.AssemblyInfoInputs.cache
+C:\Users\tracy\source\repos\DbOperationByDapper\DbOperationByDapper\obj\Release\netcoreapp2.1\DbOperationByDapper.AssemblyInfo.cs
+C:\Users\tracy\source\repos\DbOperationByDapper\DbOperationByDapper\obj\Release\netcoreapp2.1\DbOperationByDapper.dll
+C:\Users\tracy\source\repos\DbOperationByDapper\DbOperationByDapper\obj\Release\netcoreapp2.1\DbOperationByDapper.pdb
